@@ -1,5 +1,7 @@
  INTERNPE_JAVA
+ 
  TASK 1:GUESS THE NUMBER GAME
+
  The Number Guessing Game is an interactive console-based Java application designed to challenge and entertain players by having them guess a randomly generated number between 1 and 100. This project combines simple yet effective gameplay mechanics with a user-friendly interface, providing an enjoyable experience for users of all ages.
 
 Features:
@@ -44,7 +46,9 @@ Technologies Used:
 
 Java Programming Language
 Java Standard Library (Scanner for input, Random for generating the number to guess)
+
  TASK 2:ROCK PAPER SCISSORS GAME
+ 
  The Rock-Paper-Scissors game is a classic hand game that has been brought to life through a simple yet engaging console-based Java application. This project provides a fun and interactive way for users to play against the computer in a series of rounds until either the player or the computer scores 5 points.
 
 Features:
